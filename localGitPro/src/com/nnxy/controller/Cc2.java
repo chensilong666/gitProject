@@ -1,0 +1,10 @@
+package com.nnxy.controller;
+
+public class Cc2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
